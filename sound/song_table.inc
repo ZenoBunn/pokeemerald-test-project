@@ -611,7 +611,7 @@ gSongTable::
 	song ph_nurse_blend, 2, 2
 	song ph_nurse_held, 2, 2
 	song ph_nurse_solo, 2, 2
-	song mus_bw2_aspertia_city, 2, 2
+	song mus_dpp_oreburgh_city, 2, 2
 
 	.align 2
 dummy_song_header:
