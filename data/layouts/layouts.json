@@ -4415,7 +4415,7 @@
       "id": "LAYOUT_YAEDIR_TOWN",
       "name": "YaedirTown_Layout",
       "width": 30,
-      "height": 49,
+      "height": 40,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/YaedirTown/border.bin",
