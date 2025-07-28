@@ -339,7 +339,7 @@
 #define P_FAMILY_YAMASK                  FALSE
 #define P_FAMILY_TIRTOUGA                FALSE
 #define P_FAMILY_ARCHEN                  FALSE
-#define P_FAMILY_TRUBBISH                FALSE
+#define P_FAMILY_TRUBBISH                P_GEN_5_POKEMON
 #define P_FAMILY_ZORUA                   P_GEN_5_POKEMON
 #define P_FAMILY_MINCCINO                P_GEN_5_POKEMON
 #define P_FAMILY_GOTHITA                 FALSE
