@@ -758,13 +758,13 @@ Common_EventScript_SetAbnormalWeather::
 	return
 
 Common_EventScript_PlayGymBadgeFanfare::
-	playfanfare MUS_OBTAIN_BADGE
+	playfanfare MUS_BW12_005
 	waitfanfare
 	return
 
 Common_EventScript_OutOfCenterPartyHeal::
 	fadescreenswapbuffers FADE_TO_BLACK
-	playfanfare MUS_HEAL
+	playfanfare MUS_BW12_001
 	waitfanfare
 	special HealPlayerParty
 	callnative UpdateFollowingPokemon
@@ -864,7 +864,7 @@ Common_EventScript_NameReceivedPartyMon::
 
 Common_EventScript_PlayerHandedOverTheItem::
 	bufferitemname STR_VAR_1, VAR_0x8004
-	playfanfare MUS_OBTAIN_TMHM
+	playfanfare MUS_BW12_006
 	message gText_PlayerHandedOverTheItem
 	waitmessage
 	waitfanfare
@@ -1157,3 +1157,19 @@ EventScript_VsSeekerChargingDone::
 	.include "data/text/save.inc"
 	.include "data/text/birch_speech.inc"
 	.include "data/scripts/dexnav.inc"
+
+	.include "data/maps/YaedirTown/scripts.inc"
+
+	.include "data/maps/Route1/scripts.inc"
+
+	.include "data/maps/YaedirTown_PlayersHouse1F/scripts.inc"
+
+	.include "data/maps/YaedirTown_PlayersHouse2F/scripts.inc"
+
+	.include "data/maps/YaedirTown_RivalsHouse1F/scripts.inc"
+
+	.include "data/maps/YaedirTown_RivalsHouse2F/scripts.inc"
+
+	.include "data/maps/YaedirTown_OtherHouse/scripts.inc"
+
+	.include "data/maps/YaedirTown_PokemonCenter/scripts.inc"

@@ -1,0 +1,42 @@
+{
+  "id": "MAP_YAEDIR_TOWN_RIVALS_HOUSE1F",
+  "name": "YaedirTown_RivalsHouse1F",
+  "layout": "LAYOUT_YAEDIR_TOWN_RIVALS_HOUSE1F",
+  "music": "MUS_BW12_041",
+  "region_map_section": "MAPSEC_LITTLEROOT_TOWN",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_NONE",
+  "allow_cycling": false,
+  "allow_escaping": false,
+  "allow_running": false,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": null,
+  "object_events": [],
+  "warp_events": [
+    {
+      "x": 2,
+      "y": 8,
+      "elevation": 0,
+      "dest_map": "MAP_YAEDIR_TOWN",
+      "dest_warp_id": "2"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "elevation": 0,
+      "dest_map": "MAP_YAEDIR_TOWN_RIVALS_HOUSE2F",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "elevation": 0,
+      "dest_map": "MAP_YAEDIR_TOWN",
+      "dest_warp_id": "2"
+    }
+  ],
+  "coord_events": [],
+  "bg_events": []
+}

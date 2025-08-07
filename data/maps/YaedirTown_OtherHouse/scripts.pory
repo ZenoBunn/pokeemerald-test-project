@@ -1,0 +1,8 @@
+mapscripts YaedirTown_OtherHouse_MapScripts {}
+
+    script YaedirTown_OtherHouse_TestNPC {
+        lockall
+        msgbox(format("Hey {PLAYER}! This is another crazy test message. Woah!"))
+        msgbox("This is another message from house No.3!")
+        releaseall
+    }

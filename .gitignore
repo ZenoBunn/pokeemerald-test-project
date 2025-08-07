@@ -48,3 +48,5 @@ tools/compresSmol/compresSmolTilemap
 *.fastSmol
 *.smolTM
 __pycache__
+tools/poryscript/README.md
+tools/poryscript/CHANGELOG.md

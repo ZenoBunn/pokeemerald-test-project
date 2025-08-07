@@ -4739,10 +4739,10 @@ static const struct LevelUpMove sMeganiumLevelUpLearnset[] = {
 static const struct LevelUpMove sCyndaquilLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_MOVE( 1, MOVE_LEER),
-    LEVEL_UP_MOVE( 6, MOVE_SMOKESCREEN),
-    LEVEL_UP_MOVE(10, MOVE_EMBER),
-    LEVEL_UP_MOVE(13, MOVE_QUICK_ATTACK),
-    LEVEL_UP_MOVE(19, MOVE_FLAME_WHEEL),
+    LEVEL_UP_MOVE( 5, MOVE_EMBER),
+    LEVEL_UP_MOVE( 8, MOVE_QUICK_ATTACK),
+    LEVEL_UP_MOVE(12, MOVE_ASTONISH),
+    LEVEL_UP_MOVE(18, MOVE_FLAME_WHEEL),
     LEVEL_UP_MOVE(22, MOVE_DEFENSE_CURL),
     LEVEL_UP_MOVE(28, MOVE_FLAME_CHARGE),
     LEVEL_UP_MOVE(31, MOVE_SWIFT),
@@ -9980,8 +9980,8 @@ static const struct LevelUpMove sInfernapeLevelUpLearnset[] = {
 #if P_FAMILY_PIPLUP
 static const struct LevelUpMove sPiplupLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_POUND),
-    LEVEL_UP_MOVE( 4, MOVE_GROWL),
-    LEVEL_UP_MOVE( 8, MOVE_WATER_GUN),
+    LEVEL_UP_MOVE( 4, MOVE_TAIL_WHIP),
+    LEVEL_UP_MOVE( 5, MOVE_WATER_GUN),
     LEVEL_UP_MOVE(11, MOVE_CHARM),
     LEVEL_UP_MOVE(15, MOVE_PECK),
     LEVEL_UP_MOVE(18, MOVE_BUBBLE_BEAM),
@@ -14915,8 +14915,9 @@ static const struct LevelUpMove sGenesectLevelUpLearnset[] = {
 
 #if P_FAMILY_CHESPIN
 static const struct LevelUpMove sChespinLevelUpLearnset[] = {
-    LEVEL_UP_MOVE( 1, MOVE_VINE_WHIP),
+    LEVEL_UP_MOVE( 1, MOVE_SCRATCH),
     LEVEL_UP_MOVE( 1, MOVE_GROWL),
+    LEVEL_UP_MOVE( 5, MOVE_LEAFAGE),
     LEVEL_UP_MOVE( 8, MOVE_ROLLOUT),
     LEVEL_UP_MOVE(11, MOVE_BITE),
     LEVEL_UP_MOVE(15, MOVE_LEECH_SEED),

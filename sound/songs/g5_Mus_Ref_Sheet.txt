@@ -1,0 +1,244 @@
+// mus_bw12_ost
+
+001		Healing
+002		Lvl Up
+003		Got Item
+004		Caught Pokemon
+005		Got Gym Badge
+006		Got TM
+007		Got Berry
+008		Evo Start
+009		Evolution
+
+010		Elite Four
+011		Vs Rival 1
+012		Vs Wild Strong
+
+013		Forgot Move**
+
+014		Follow Me
+015		Battle Subway
+016		Neo Plasma Trouble
+017		Gym
+018		Unwavering Emotion
+019		Pokemon Intro
+020		Title Screen 1
+021		Undella Town (Summer)
+022		Lacunosa Town
+023		Bike
+
+024		Spooky Theme**
+
+025		Encounter Lass
+026		Encounter Youngster
+027		Hall of Fame
+028		Dreamyard
+029		Chargestone Cave
+030		Haunted Mansion
+031		Credits 1
+032		Route 19
+033		Route 4
+034		Route 2
+035		Route 6
+036		Victory Road
+037		Vs Gym Leader 1
+038		Vs Trainer 2
+039		Vs Wild 2
+040		Vs Champion Alder
+041		Aspertia City
+042		Juniper's Theme
+043		Professor's Lab
+044		Pokemon Center
+045		Boat Ride
+046		Surf
+047		Dragonspiral Tower
+048		Cold Storage
+049		Virbank City
+050		Trainer Victory
+051		Wild Victory
+052		Gym Victory
+053		Castelia City
+054		Flocessy Town
+055		Hugh's Theme
+
+057		Registered Number**
+
+058		Got Key Item
+
+060		GameFreak Splash
+062		N's Castle Bridge
+063		N's Castle
+
+064		Bridge I think**
+
+065		Skyarrow Bridge
+066		Icirrus City
+067		Dragonspiral Tower Peak
+068		Desert Ruins
+069		Route 10
+
+070		White Forest Entrance**
+
+071		Striaton City
+072		Driftveil City
+073		Mistralton City
+074		Vs Zekrom
+075		Vs Reshiram
+076		Vs Legendary
+077		Encounter Ace
+078		Pokemon League
+079		Vs PWC Final
+080		N's Farewell
+081		Gate
+082		Vs Trainer Subway
+083		Vs Champion N
+084		Vs Ghetsis 1
+085		Route 12
+086		Undella Town
+087		Bianca's Theme
+088		Black City
+089		White Forest
+090		Anville Town
+091		Village Bridge
+092		Battle Subway Entrance
+093		Vs Gym Leader Final Pokemon 1
+
+094		Encounter Feminine**
+
+095		Encounter Hiker
+096		Alder's Theme
+
+097		Encounter Cool**
+098		Black Tower Entrance??****
+099		White Treehollow Entrance???****
+100		N's Theme
+
+101		Encounter Gambler**
+102		Plasma Ship**
+103		Casino???**
+
+104		Encounter Twins
+105		Pokemart
+
+106		Relic Song**
+107		Evil Fucked up ominous**
+
+108		Vs In Danger
+109		Undersea Ruins
+110		Plasma Theme 1
+111		Plasma Victory
+112		N's Room
+113		Day I Became King
+
+114		Lostlorn Forest
+115		Vs N
+116		Opelucid City Black
+117		Opelucid City White
+118		New Game Intro
+119		Choose Your Starter
+120		Emergency
+121		Ghetsis's Theme
+122		Cynthia's Theme
+123		Vs Cynthia
+124		N's Castle Emerges
+125		Vs Wild 1
+126		Vs Trainer 1
+127		Nuvema Town
+128		Vs Gym Leader 2
+129		Vs Neo Plasma
+130		Route 22
+131		Route 25
+132		Vs Colress
+133		Vs Hugh
+134		Route 1
+135		Nacrene City
+136		Entralink
+
+137		Triumphant Theme??**
+
+138		Opening 2
+139		Pokemon Intro 2
+140		Cheren's Theme 2
+141		Bianca's Theme 2
+142		Vs Ghetsis 2
+143		Vs BW Kyurem
+
+144		Vs Neo Plasma Admin??**
+
+145		Plasma Theme Again
+146		Colress's Theme
+147		Marine Tube
+148		Cheren's Theme 1
+149		Vs PWT Final
+150		Flocessy Ranch
+151		Accumula Town
+152		Virbank Complex
+
+153		Pokemon Movie Jingle Idk**
+
+154		Vs Regi
+155		Regi Chamber
+156		Vs Plasma
+157		PWT
+158		Vs Leader Kanto
+159		Vs Champion Kanto
+160		Vs Leader Johto
+161		Vs Champion Johto
+162		Vs Leader Hoenn
+163		Vs Champion Hoenn
+164		Vs Leader Sinnoh
+165		Vs Champion Sinnoh
+166		Vs Champion Iris
+167		Humilao City
+168		Vs N 2
+169		Limentas Town
+170		Vs Gym Leader Final Pokemon 2
+171		Road to Twist Mountain
+172		Twist Mountain 1
+173		Twist Mountain 2
+
+174		Beautiful Intro**
+
+175		Pokestar Studios
+
+176		Pokestar 1*
+177		Pokestar 2*
+
+178		Pokestar Victory
+
+179		Pokestar 3*
+180		Plasma Evil Fucked Up**
+
+181		N's Theme 2
+182		Gym Mistralton
+183		Gym Opelucid
+184		Plasma Assault Opelucid
+185		Frozen Town
+
+186		Plasma Evil Cutscene I think***
+187		Another Crazy Cutscene probably***
+
+188		Your pager is going off!
+
+189		Testing Chamber? dude what***
+190		Just a chill guy**
+191		Something Colress Related***
+192		Dude what are these anymore**
+193		White Tree Hollow I think**
+
+194		Gym Virbank
+195		Gym Castelia
+196		Gym Driftveil
+
+197		Random fucking mega man song
+
+198		Gym Humilau
+
+199		Your pager is going off!
+
+200		Gym Nimbasa Runway
+201		Gym Nimbasa
+202		Encounter Beauty
+203		Credits 2
+204		Credits 2 End
+205		PWT Venue
