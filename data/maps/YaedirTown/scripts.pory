@@ -1,0 +1,17 @@
+mapscripts YaedirTown_MapScripts {}
+
+    script YaedirTown_PlayerHouseSign {
+        lockall
+        msgbox("It's {PLAYER}'s house.")
+        releaseall
+    }
+    script YaedirTown_RivalHouseSign {
+        lockall
+        msgbox("It's Bugger's house.")
+        releaseall
+    }
+    script YaedirTown_DockSign {
+        lockall
+        msgbox(format("Remember to wash your hands! asdasdasdasdaadasdasdad"))
+        releaseall
+    }

@@ -34,7 +34,8 @@
     "gMapGroup_IndoorRoute123",
     "gMapGroup_IndoorRoute119",
     "gMapGroup_IndoorRoute124",
-    "gMapGroup_zTowns"
+    "gMapGroup_zTowns",
+    "gMapGroup_zIndoorYaedir"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
@@ -625,5 +626,13 @@
   "gMapGroup_zTowns": [
     "YaedirTown",
     "Route1"
+  ],
+  "gMapGroup_zIndoorYaedir": [
+    "YaedirTown_PlayersHouse1F",
+    "YaedirTown_PlayersHouse2F",
+    "YaedirTown_RivalsHouse1F",
+    "YaedirTown_RivalsHouse2F",
+    "YaedirTown_OtherHouse",
+    "YaedirTown_PokemonCenter"
   ]
 }

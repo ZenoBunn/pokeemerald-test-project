@@ -1,0 +1,64 @@
+mapscripts Route1_MapScripts {}
+ 
+script Route1_EventScript_Pokeball{
+ 
+    lockall
+    showmonpic(SPECIES_STUFFUL, 10,3)
+    msgbox("It's a Stufful. Take it?", MSGBOX_YESNO)
+    if(var(VAR_RESULT) == YES){
+        givemon(SPECIES_STUFFUL, 5, ITEM_ORAN_BERRY)
+        if(var(VAR_RESULT) == MON_GIVEN_TO_PARTY){
+            playfanfare(MUS_BW12_004)
+            msgbox("Recieved Stufful!")
+            removeobject(1)
+            setflag(FLAG_UNUSED_0x020)
+            call(NicknamePartyMon)
+        }
+        elif(var(VAR_RESULT) == MON_GIVEN_TO_PC){
+            playfanfare(MUS_BW12_004)
+            msgbox("Recieved Stufful!")
+            removeobject(1)
+            setflag(FLAG_UNUSED_0x020)
+            call(NicknameBoxMon)
+        }
+        else{
+            hidemonpic
+            msgbox("No More Room")
+        }
+    }
+    else{
+        hidemonpic
+        msgbox(NewProfessor_NotChosen)
+    }
+    waitmessage
+    releaseall
+    end
+ 
+}
+ 
+script NicknamePartyMon{
+ 
+    msgbox("Give it a nickname?", MSGBOX_YESNO)
+    hidemonpic
+    if(var(VAR_RESULT) == YES){
+        call(Common_EventScript_GetGiftMonPartySlot)
+        call(Common_EventScript_NameReceivedPartyMon)
+    }
+ 
+ 
+}
+ 
+script NicknameBoxMon{
+ 
+    msgbox("Give it a nickname?", MSGBOX_YESNO)
+    hidemonpic
+    if(var(VAR_RESULT) == YES){
+        call(Common_EventScript_NameReceivedBoxMon)
+    }
+    call(Common_EventScript_TransferredToPC)
+ 
+}
+ 
+text NewProfessor_NotChosen{
+    "You did not choose the Pokemon"
+}

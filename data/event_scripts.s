@@ -1161,3 +1161,15 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/YaedirTown/scripts.inc"
 
 	.include "data/maps/Route1/scripts.inc"
+
+	.include "data/maps/YaedirTown_PlayersHouse1F/scripts.inc"
+
+	.include "data/maps/YaedirTown_PlayersHouse2F/scripts.inc"
+
+	.include "data/maps/YaedirTown_RivalsHouse1F/scripts.inc"
+
+	.include "data/maps/YaedirTown_RivalsHouse2F/scripts.inc"
+
+	.include "data/maps/YaedirTown_OtherHouse/scripts.inc"
+
+	.include "data/maps/YaedirTown_PokemonCenter/scripts.inc"

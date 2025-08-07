@@ -4414,7 +4414,7 @@
     {
       "id": "LAYOUT_YAEDIR_TOWN",
       "name": "YaedirTown_Layout",
-      "width": 30,
+      "width": 38,
       "height": 40,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Slateport",
@@ -4430,6 +4430,66 @@
       "secondary_tileset": "gTileset_Slateport",
       "border_filepath": "data/layouts/Route1/border.bin",
       "blockdata_filepath": "data/layouts/Route1/map.bin"
+    },
+    {
+      "id": "LAYOUT_YAEDIR_TOWN_PLAYERS_HOUSE1F",
+      "name": "YaedirTown_PlayersHouse1F_Layout",
+      "width": 11,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/YaedirTown_PlayersHouse1F/border.bin",
+      "blockdata_filepath": "data/layouts/YaedirTown_PlayersHouse1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_YAEDIR_TOWN_PLAYERS_HOUSE2F",
+      "name": "YaedirTown_PlayersHouse2F_Layout",
+      "width": 9,
+      "height": 8,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/YaedirTown_PlayersHouse2F/border.bin",
+      "blockdata_filepath": "data/layouts/YaedirTown_PlayersHouse2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_YAEDIR_TOWN_RIVALS_HOUSE1F",
+      "name": "YaedirTown_RivalsHouse1F_Layout",
+      "width": 11,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/YaedirTown_RivalsHouse1F/border.bin",
+      "blockdata_filepath": "data/layouts/YaedirTown_RivalsHouse1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_YAEDIR_TOWN_RIVALS_HOUSE2F",
+      "name": "YaedirTown_RivalsHouse2F_Layout",
+      "width": 9,
+      "height": 8,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/YaedirTown_RivalsHouse2F/border.bin",
+      "blockdata_filepath": "data/layouts/YaedirTown_RivalsHouse2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_YAEDIR_TOWN_OTHER_HOUSE",
+      "name": "YaedirTown_OtherHouse_Layout",
+      "width": 10,
+      "height": 8,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/YaedirTown_OtherHouse/border.bin",
+      "blockdata_filepath": "data/layouts/YaedirTown_OtherHouse/map.bin"
+    },
+    {
+      "id": "LAYOUT_YAEDIR_TOWN_POKEMON_CENTER",
+      "name": "YaedirTown_PokemonCenter_Layout",
+      "width": 12,
+      "height": 8,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_PokemonCenter",
+      "border_filepath": "data/layouts/YaedirTown_PokemonCenter/border.bin",
+      "blockdata_filepath": "data/layouts/YaedirTown_PokemonCenter/map.bin"
     }
   ]
 }
